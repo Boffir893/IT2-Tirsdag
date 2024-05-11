@@ -10,7 +10,7 @@ WIN = pygame.display.set_mode((WIDTH, HEIGHT))  # Oppretter spillvinduet med ang
 pygame.display.set_caption("Snake Game")  # Setter tittelen på spillvinduet
 
 # Definerer farger
-WHITE = (255, 255, 255)  # Setter fargen hvit 
+WHITE = (255, 255, 255)  # Setter fargen hvit mn
 BLACK = (0, 0, 0)  # Setter fargen svart 
 RED = (255, 0, 0)  # Setter fargen rød 
 
