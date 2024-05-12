@@ -8,7 +8,7 @@ For å finne TODOs i VS Code trykker du på `CMD` + `f` / `CTRL` + `f` og skrive
 Når du er ferdig med en TODO, endrer du `TODO` til `DONE`, slik:
 
 DONE Les om TODOs
-TODO Avtal tidspunkt for presentasjon innen 26. april
+DONE Avtal tidspunkt for presentasjon innen 26. april
 
 ## Implementering
 
