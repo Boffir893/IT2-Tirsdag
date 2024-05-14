@@ -1,3 +1,9 @@
+# I denne oppgaven skal du lage ferdig en funksjon som returnerer True om et årstall er skuddår og False hvis årstallet 
+# ikke er et skuddår.
+
+# Skuddår er år som er delelige på 4 og som ikke er delelige med 100, med unntak for år som er delelige på 400. Kopier koden
+# under, og fiks funksjonen er_skuddår slik at alle testene er ok.
+
 
 def skuddår(årstall: int):
     # 2. lag en funksjon

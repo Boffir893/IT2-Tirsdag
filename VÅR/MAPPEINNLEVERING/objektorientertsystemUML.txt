@@ -1,0 +1,41 @@
+| Library |
+
+| - name: str |
+| - address: str |
+| - books: list[Book] |
+| - dvds: list[DVD] |
+| - members: list[Member] |
+| + add_book(book: Book): void |
+| + remove_book(book: Book): void |
+| + add_dvd(dvd: DVD): void |
+| + remove_dvd(dvd: DVD): void |
+| + add_member(member: Member): void |
+| + remove_member(member: Member): void |
+
+| Item |
+| - title: str |
+| - year: int |
+| + get_title(): str |
+| + get_year(): int |
+
+| Book |
+| - author: str |
+| - genre: str |
+| + get_author(): str |
+| + get_genre(): str |
+
+| DVD |
+| - director: str |
+| - genre: str |
+| + get_director(): str |
+| + get_genre(): str |
+
+| Member |
+| - name: str |
+| - age: int |
+| + get_name(): str |
+| + get_age(): int |
+
+
+
+

@@ -1,0 +1,21 @@
+# Lag et UML-diagram som viser hvilke egenskaper en Pokemon skal ha i spillet ditt.
+
+------------------------------------
+|             Pokemon              |
+------------------------------------
+| - id: int                        |
+| - name: dict                     |
+| - type: list[str]                |
+| - base: dict                     |
+------------------------------------
+| + get_id(): int                  |
+| + get_name(): dict               |
+| + get_types(): list[str]         |
+| + get_base_stats(): dict         |
+| + get_hp(): int                  |
+| + get_attack(): int              |
+| + get_defense(): int             |
+| + get_special_attack(): int      |
+| + get_special_defense(): int     |
+| + get_speed(): int               |
+------------------------------------
